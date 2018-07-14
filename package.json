@@ -1,0 +1,26 @@
+{
+  "name": "todo-list",
+  "version": "0.1.0",
+  "description": "This application very basic built using MERN Stack",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "server": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com:ogigpermana/todoapp-mern-stack.git"
+  },
+  "keywords": [
+    "todoapp-mern-stack"
+  ],
+  "author": "Ogi G Permana",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ogigpermana/todoapp-mern-stack/issues"
+  },
+  "homepage": "https://github.com/ogigpermana/todoapp-mern-stack#readme",
+  "devDependencies": {
+    "nodemon": "^1.18.2"
+  }
+}

@@ -39,9 +39,6 @@ class AppNavbar extends Component {
             </Collapse>
           </Container>
         </Navbar>
-        <Container>
-          <h1>Hello</h1>
-        </Container>
       </div>
     );
   }
